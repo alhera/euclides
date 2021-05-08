@@ -31,7 +31,7 @@
                 <div class="col">
                     <div class="form-group">
                         <label>Promedio</label>
-                        <input name="promedio" class="form-control" type="text" placeholder="0.00">
+                        <input name="promedio" class="form-control" type="number" placeholder="0.00" step="0.01" max="10">
                     </div>
                 </div>
                 <div class="col">

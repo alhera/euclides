@@ -24,7 +24,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/style">Estido De Aprendizaje</a>
+                <a class="nav-link" href="/style">Estilo 1</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/recinto">Recinto</a>
@@ -33,7 +33,7 @@
                 <a class="nav-link" href="/sexo">Sexo</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/estilo2">Estilo</a>
+                <a class="nav-link" href="/estilo2">Estilo 2</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/profesor">Profesor</a>
