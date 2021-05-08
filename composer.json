@@ -1,0 +1,17 @@
+{
+    "name": "alher/euclides",
+    "authors": [
+        {
+            "name": "alhera",
+            "email": "alhernandezriv@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
