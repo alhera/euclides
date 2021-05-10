@@ -9,7 +9,7 @@ class Eculides
 {
     // Method responsible for executing the distance calculations
     // The parameters are the user values from the ui ($userValues), the data from the database ($storedData), and the filter to classify the results
-    // The function is made to accept two arrays with n properties (points) to calculate the distance between the elements to compare. 
+    // The function is made to accept two arrays with n properties (points) to calculate the distance between the elements to compare.
     public function calculateDistance($userValues, $storedData, $filterName)
     {
         $results = [];
